@@ -1,0 +1,6 @@
+{
+	"port":3030,
+	"delay":400,
+	"tokenHttp":"dev.jeeas.cn",
+	"tokenProject":"commonuser"
+}
