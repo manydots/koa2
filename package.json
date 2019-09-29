@@ -1,0 +1,41 @@
+{
+  "name": "koa2",
+  "version": "0.0.1",
+  "description": "koa2+typescript简单尝试",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.2.0",
+    "reflect-metadata": "^0.1.13",
+    "routing-controllers": "^0.7.7",
+    "typescript": "~3.5.3"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.50",
+    "@types/koa-bodyparser": "^4.3.0",
+    "@types/koa-router": "^7.0.42",
+    "@types/node": "^12.7.8",
+    "nodemon": "^1.19.1",
+    "ts-node": "^8.4.1"
+  },
+  "keywords": [
+    "node",
+    "ejs",
+    "koa",
+    "koa2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:manydots/koa2.git"
+  },
+  "homepage": "https://github.com/manydots/koa2#readme",
+  "author": "mo.chen",
+  "license": "MIT"
+}
